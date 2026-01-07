@@ -3,7 +3,7 @@ A structured SQL Exploratory Data Analysis (EDA) project performed on curated Go
 # SQL Exploratory Data Analysis on Gold Layer Data Warehouse
 
 ## 📌 Project Overview
-This project performs **Exploratory Data Analysis (EDA)** using **SQL** on curated **Gold-layer dimension and fact views** built as part of a modern data warehouse.
+This project performs **Exploratory Data Analysis (EDA)** using **SQL** on curated **Gold-layer dimension and fact views** built as part of the data warehouse project.
 
 The analysis focuses on understanding business entities, time-based trends, key measures, data magnitude, and rankings to extract actionable insights.
 
