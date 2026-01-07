@@ -117,6 +117,7 @@ All analysis is performed **directly on Gold views**, created in the previous da
 
 ## 👤 About Me:
 **Anushka**
+Hello there! I am Anushka Phadtare. I am a Data Engineering and Analytics enthusiast. I love to create real-world, impactful projects around data!
 
 
 
