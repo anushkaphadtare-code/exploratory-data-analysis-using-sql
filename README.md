@@ -1,6 +1,6 @@
 # exploratory-data-analysis-using-sql
 A structured SQL Exploratory Data Analysis (EDA) project performed on curated Gold-layer dimension and fact views from the data warehouse project. The analysis follows a seven-stage approach to explore dimensions, measures, time-based trends, magnitudes, and rankings to derive meaningful business insights using SQL.
-# SQL Exploratory Data Analysis on Gold Layer Data Warehouse
+# SQL Exploratory Data Analysis on Gold Layer of the Data Warehouse
 
 ## 📌 Project Overview
 This project performs **Exploratory Data Analysis (EDA)** using **SQL** on curated **Gold-layer dimension and fact views** built as part of the data warehouse project.
